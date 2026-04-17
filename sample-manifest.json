@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3b364e9c-f1c5-49ca-8ed8-f169b5a475ee",
+  "export_job_id": "690ffd50-ab30-4022-b322-ca24b9d76702",
   "id_short": 491869,
-  "published_at": "2026-04-11T19:12:18Z",
+  "published_at": "2026-04-17T19:34:04Z",
   "repo_name": "all-restaurants-in-perris-california-us-sample-491869",
   "sample_asset_name": "beamstation_491869_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/491869/beamstation_491869_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "81967ab208a95797a0be303c90727208bcf086570f616cb42804cc57906fd173",
-  "sample_size_bytes": 46062,
-  "total_records": 85
+  "sample_records": 13,
+  "sample_sha256": "726a91be06516e944987a2f0d93c6bfc67e9c36a54a83f41426f7cd2e9c8d0d6",
+  "sample_size_bytes": 66209,
+  "total_records": 131
 }

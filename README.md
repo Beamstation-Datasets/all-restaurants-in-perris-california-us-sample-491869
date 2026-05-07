@@ -1,6 +1,6 @@
 # All Restaurants in Perris, California, US
 
-> Free BeamStation sample export with 12 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `491869` |
 | Location | Perris |
 | Category | Restaurants |
-| Full dataset size | 126 records |
-| Free sample size | 12 records (9.52%) |
-| Last export | 2026-04-28T20:45:00.563290+00:00 |
+| Full dataset size | 137 records |
+| Free sample size | 13 records (9.49%) |
+| Last export | 2026-05-07T13:13:07.111855+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-perris-california-us-sample-491869/releases/download/sample-latest/beamstation_491869_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
